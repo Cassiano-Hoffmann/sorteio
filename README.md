@@ -3,6 +3,7 @@
 Este repositório contém um projeto de sorteio de números desenvolvido utilizando HTML5, CSS3 e JavaScript. O objetivo deste projeto é criar uma aplicação simples que permite ao usuário sortear números aleatórios dentro de um intervalo especificado.
 
 # Imagem
+![Sorteio de números](https://github.com/Cassiano-Hoffmann/sorteio/assets/117099774/0443395b-5776-4d38-9a4f-623cfe3eab42)
 
 # Funcionalidades
 
